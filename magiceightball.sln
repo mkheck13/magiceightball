@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "magiceightball", "magiceightball.csproj", "{54F26C76-24EB-445F-95B5-4C4ED4AF0B92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54F26C76-24EB-445F-95B5-4C4ED4AF0B92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F26C76-24EB-445F-95B5-4C4ED4AF0B92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F26C76-24EB-445F-95B5-4C4ED4AF0B92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F26C76-24EB-445F-95B5-4C4ED4AF0B92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2843DABE-287B-485E-A6B5-11F796F4F8D3}
+	EndGlobalSection
+EndGlobal
