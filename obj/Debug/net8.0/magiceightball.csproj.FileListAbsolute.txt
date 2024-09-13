@@ -12,3 +12,4 @@ C:\Users\mkhec\Documents\CodeStack 24-25\Combine 24-25\week 2\magiceightball\obj
 C:\Users\mkhec\Documents\CodeStack 24-25\Combine 24-25\week 2\magiceightball\obj\Debug\net8.0\magiceightball.pdb
 C:\Users\mkhec\Documents\CodeStack 24-25\Combine 24-25\week 2\magiceightball\obj\Debug\net8.0\magiceightball.genruntimeconfig.cache
 C:\Users\mkhec\Documents\CodeStack 24-25\Combine 24-25\week 2\magiceightball\obj\Debug\net8.0\ref\magiceightball.dll
+C:\Users\mkhec\Documents\CodeStack 24-25\Combine 24-25\week 2\magiceightball\obj\Debug\net8.0\magiceightball.sourcelink.json

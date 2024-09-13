@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("magiceightball")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57d2e6d1502a10aafc1b4871624ae1a8c0b9b10d")]
 [assembly: System.Reflection.AssemblyProductAttribute("magiceightball")]
 [assembly: System.Reflection.AssemblyTitleAttribute("magiceightball")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
