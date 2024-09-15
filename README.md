@@ -8,6 +8,6 @@
 
 ### Peer Review:  
 
-**Name**: 
+**Name**: David Monterrosa
 
-**Comments**: 
+**Comments**: Code works well, but does not accept the “?”. Other than that, I like the user prompting, that there are several possible responses, and that it asks me if I want to go again. One other thing: stylistically the spacing seems a bit odd. It makes the code very long. Clean and readable, but looooong.
